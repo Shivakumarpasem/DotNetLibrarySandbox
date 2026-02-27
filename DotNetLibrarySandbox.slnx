@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DotNetLibrarySandbox.Lib/DotNetLibrarySandbox.Lib.csproj" />
+  <Project Path="DotNetLibrarySandbox.Tests/DotNetLibrarySandbox.Tests.csproj" />
+</Solution>
