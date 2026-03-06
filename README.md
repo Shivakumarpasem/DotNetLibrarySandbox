@@ -72,7 +72,7 @@ Utility methods for common numeric array operations.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/DotNetLibrarySandbox.git
+git clone [https://github.com/Shivakumarpasem/DotNetLibrarySandbox.git]
 cd DotNetLibrarySandbox
 ```
 
